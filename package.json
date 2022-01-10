@@ -1,0 +1,24 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Our first Express.js application. Once completed, users will be able to browse information about the different animals at the zoo without having to download an app to their phone.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmlawton15/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmlawton15/zookeepr/issues"
+  },
+  "homepage": "https://github.com/mmlawton15/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
